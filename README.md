@@ -1,9 +1,10 @@
 # Hi, I'm Brian 👋
 
-Full-stack web developer with 5+ years building responsive React apps in JavaScript/TypeScript.
+Full-stack mobile/web developer with 5+ years building responsive React apps via JavaScript/TypeScript.
 
 🌐 **Portfolio:** [bkasper.com](https://bkasper.com/)
-💼 **LinkedIn:** [linkedin.com/in/bpk09](https://linkedin.com/in/bpk09)
+
+💼 **LinkedIn:** [bpk09](https://linkedin.com/in/bpk09)
 
 ## What I'm working on
 
